@@ -1,0 +1,102 @@
+{
+  "gp_name":"México - Hermanos Rodríguez",
+  "date_limit":"12/08/2021 às 18 horas",
+  "times":[
+    {
+      "color":"#124180",
+      "number":"25",
+      "nick":"Paul \"Oovi Cat\"",
+      "team":"AVAX RT",
+      "time":"NC",
+      "date":"NC"
+    },
+    {
+      "color":"#444",
+      "number":"--",
+      "nick":"Fred \"Renn\"",
+      "team":"no Team",
+      "time":"NC",
+      "date":"NC"
+    },
+    {
+      "color":"#444",
+      "number":"--",
+      "nick":"Denis \"Endeavor\"",
+      "team":"no Team",
+      "time":"NC",
+      "date":"NC"
+    },
+    {
+      "color":"#444",
+      "number":"--",
+      "nick":"Rodrigo \"Don\"",
+      "team":"no Team",
+      "time":"NC",
+      "date":"NC"
+    },
+    {
+      "color":"#444",
+      "number":"--",
+      "nick":"Vitor \"Vituuh\"",
+      "team":"no Team",
+      "time":"NC",
+      "date":"NC"
+    },
+    {
+      "color":"#444",
+      "number":"--",
+      "nick":"Eduardo \"Kess000\"",
+      "team":"no Team",
+      "time":"NC",
+      "date":"NC"
+    },
+    {
+      "color":"#444",
+      "number":"--",
+      "nick":"Antonio \"Neto\"",
+      "team":"no Team",
+      "time":"NC",
+      "date":"NC"
+    },
+    {
+      "color":"#444",
+      "number":"--",
+      "nick":"Rodrigo \"Diguim\"",
+      "team":"no Team",
+      "time":"NC",
+      "date":"NC"
+    },
+    {
+      "color":"#FFFFFF",
+      "number":"--",
+      "nick":"Matheus \"Zeff\"",
+      "team":"Dias Racing",
+      "time":"NC",
+      "date":"NC"
+    },
+    {
+      "color":"#744C11",
+      "number":"13",
+      "nick":"Jean \"HissingStone\"",
+      "team":"Golden Shower",
+      "time":"NC",
+      "date":"NC"
+    },
+    {
+      "color":"#000",
+      "number":"69",
+      "nick":"Gabriel \"ZeroOneTV\"",
+      "team":"Lotus",
+      "time":"NC",
+      "date":"NC"
+    },
+    {
+      "color":"#E90A32",
+      "number":"73",
+      "nick":"Filipe \"Daineze\"",
+      "team":"DNZ Academy",
+      "time":"NC",
+      "date":"NC"
+    }
+  ]
+}
