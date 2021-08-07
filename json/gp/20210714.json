@@ -1,94 +1,66 @@
 {
   "gp_name":"Áustria - Spielberg",
-  "date_limit":"22/07/2021 às 18 horas",
-  "times":[
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Fred \"Renn\"",
-      "team":"no Team",
-      "time":"NC",
-      "date":"NC"
+  "date_limit":"31/02/2022 às 18 horas",
+  "times":{
+    "25":{
+      "nick":"Oovi Cat",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Denis \"Endeavor\"",
-      "team":"no Team",
-      "time":"NC",
-      "date":"NC"
+    "92":{
+      "nick":"Renn",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Rodrigo \"Don\"",
-      "team":"no Team",
-      "time":"NC",
-      "date":"NC"
+    "93":{
+      "nick":"Endeavor",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Vitor \"Vituuh\"",
-      "team":"no Team",
+    "94":{
+      "nick":"Vituuh",
       "time":"1:05:527",
       "date":"22/07/2021"
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Eduardo \"Kess000\"",
-      "team":"no Team",
+    "95":{
+      "nick":"Don",
+      "time":"",
+      "date":""
+    },
+    "96":{
+      "nick":"Kess000",
       "time":"1:06:204",
       "date":"22/07/2021"
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Antonio \"Neto\"",
-      "team":"no Team",
+    "97":{
+      "nick":"Neto",
       "time":"1:04:567",
       "date":"22/07/2021"
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Rodrigo \"Diguim\"",
-      "team":"no Team",
+    "98":{
+      "nick":"Diguim",
       "time":"1:06:118",
       "date":"22/07/2021"
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Matheus \"Zeff\"",
-      "team":"no Team",
+    "99":{
+      "nick":"Zeff",
       "time":"1:04:342",
       "date":"22/07/2021"
     },
-    {
-      "color":"#444",
-      "number":"13",
-      "nick":"Jean \"HissingStone\"",
-      "team":"no Team",
+    "13":{
+      "nick":"HissingStone",
       "time":"1:04:414",
       "date":"22/07/2021"
     },
-    {
-      "color":"#444",
-      "number":"69",
-      "nick":"Gabriel \"ZeroOneTV\"",
-      "team":"no Team",
+    "69":{
+      "nick":"ZeroOneTV",
       "time":"1:03:791",
       "date":"22/07/2021"
     },
-    {
-      "color":"#444",
-      "number":"73",
-      "nick":"Filipe \"Daineze\"",
-      "team":"no Team",
+    "73":{
+      "nick":"Daineze",
       "time":"1:05:093",
       "date":"22/07/2021"
     }
-  ]
+  }
 }

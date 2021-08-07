@@ -1,102 +1,66 @@
 {
   "gp_name":"México - Hermanos Rodríguez",
   "date_limit":"12/08/2021 às 18 horas",
-  "times":[
-    {
-      "color":"#124180",
-      "number":"25",
-      "nick":"Paul \"Oovi Cat\"",
-      "team":"AVAX RT",
-      "time":"NC",
-      "date":"NC"
+  "times":{
+    "25":{
+      "nick":"Oovi Cat",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Fred \"Renn\"",
-      "team":"no Team",
-      "time":"NC",
-      "date":"NC"
+    "92":{
+      "nick":"Renn",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Denis \"Endeavor\"",
-      "team":"no Team",
-      "time":"NC",
-      "date":"NC"
+    "93":{
+      "nick":"Endeavor",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Rodrigo \"Don\"",
-      "team":"no Team",
-      "time":"NC",
-      "date":"NC"
+    "94":{
+      "nick":"Vituuh",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Vitor \"Vituuh\"",
-      "team":"no Team",
-      "time":"NC",
-      "date":"NC"
+    "95":{
+      "nick":"Don",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Eduardo \"Kess000\"",
-      "team":"no Team",
-      "time":"NC",
-      "date":"NC"
+    "96":{
+      "nick":"Kess000",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Antonio \"Neto\"",
-      "team":"no Team",
-      "time":"NC",
-      "date":"NC"
+    "97":{
+      "nick":"Neto",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#444",
-      "number":"--",
-      "nick":"Rodrigo \"Diguim\"",
-      "team":"no Team",
-      "time":"NC",
-      "date":"NC"
+    "98":{
+      "nick":"Diguim",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#FFFFFF",
-      "number":"--",
-      "nick":"Matheus \"Zeff\"",
-      "team":"Dias Racing",
-      "time":"NC",
-      "date":"NC"
+    "99":{
+      "nick":"Zeff",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#744C11",
-      "number":"13",
-      "nick":"Jean \"HissingStone\"",
-      "team":"Golden Shower",
-      "time":"NC",
-      "date":"NC"
+    "13":{
+      "nick":"HissingStone",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#000",
-      "number":"69",
-      "nick":"Gabriel \"ZeroOneTV\"",
-      "team":"Lotus",
-      "time":"NC",
-      "date":"NC"
+    "69":{
+      "nick":"ZeroOneTV",
+      "time":"",
+      "date":""
     },
-    {
-      "color":"#E90A32",
-      "number":"73",
-      "nick":"Filipe \"Daineze\"",
-      "team":"DNZ Academy",
-      "time":"NC",
-      "date":"NC"
+    "73":{
+      "nick":"Daineze",
+      "time":"",
+      "date":""
     }
-  ]
+  }
 }

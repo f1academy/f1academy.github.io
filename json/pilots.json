@@ -1,7 +1,5 @@
 {
-  "gp_name":"Áustria - Spielberg",
-  "date_limit":"22/07/2021 às 18 horas",
-  "times":[
+  "pilots":[
     {
       "color":"#124180",
       "number":"25",
@@ -26,16 +24,16 @@
     {
       "color":"#444",
       "number":"94",
-      "nick":"Rodrigo \"Don\"",
+      "nick":"Vitor \"Vituuh\"",
       "team":"no Team",
-      "steam":"https://steamcommunity.com/id/limarodrigoo"
+      "steam":"https://steamcommunity.com/id/bkgopnik/"
     },
     {
       "color":"#444",
       "number":"95",
-      "nick":"Vitor \"Vituuh\"",
+      "nick":"Rodrigo \"Don\"",
       "team":"no Team",
-      "steam":"https://steamcommunity.com/id/bkgopnik/"
+      "steam":"https://steamcommunity.com/id/limarodrigoo"
     },
     {
       "color":"#444",
