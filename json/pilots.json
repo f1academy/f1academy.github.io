@@ -36,10 +36,10 @@
       "steam":"https://steamcommunity.com/id/bkgopnik/"
     },
     {
-      "color":"#444",
-      "number":"DD",
+      "color":"#222",
+      "number":"64",
       "nick":"Eduardo \"Kess000\"",
-      "team":"no Team",
+      "team":"AlphaCapybara",
       "steam":"https://steamcommunity.com/id/kess000/"
     },
     {
@@ -50,15 +50,15 @@
       "steam":"https://steamcommunity.com/id/netolokao/"
     },
     {
-      "color":"#444",
-      "number":"BB",
+      "color":"#FF0000",
+      "number":"99",
       "nick":"Rodrigo \"Diguim\"",
-      "team":"no Team",
+      "team":"CRF",
       "steam":"https://steamcommunity.com/profiles/76561198112636111"
     },
     {
       "color":"#FFFFFF",
-      "number":"AA",
+      "number":"32",
       "nick":"Matheus \"Zeff\"",
       "team":"Dias Racing",
       "steam":"https://steamcommunity.com/profiles/76561198990313618/"
