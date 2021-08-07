@@ -1,66 +1,66 @@
 {
-  "gp_name":"Áustria - Spielberg",
-  "date_limit":"31/02/2022 as 18 horas",
+  "gp_name":"México - Hermanos Rodríguez",
+  "date_limit":"12/08/2021 às 18 horas",
   "times":{
     "25":{
       "nick":"Oovi Cat",
       "time":"",
       "date":""
     },
-    "92":{
+    "GG":{
       "nick":"Renn",
       "time":"",
       "date":""
     },
-    "93":{
+    "FF":{
       "nick":"Endeavor",
       "time":"",
       "date":""
     },
-    "94":{
+    "EE":{
       "nick":"Vituuh",
-      "time":"1:05:527",
-      "date":"22/07/2021"
+      "time":"",
+      "date":""
     },
     "95":{
       "nick":"Don",
       "time":"",
       "date":""
     },
-    "96":{
+    "DD":{
       "nick":"Kess000",
-      "time":"1:06:204",
-      "date":"22/07/2021"
+      "time":"",
+      "date":""
     },
-    "97":{
+    "CC":{
       "nick":"Neto",
-      "time":"1:04:567",
-      "date":"22/07/2021"
+      "time":"",
+      "date":""
     },
-    "98":{
+    "BB":{
       "nick":"Diguim",
-      "time":"1:06:118",
-      "date":"22/07/2021"
+      "time":"",
+      "date":""
     },
-    "99":{
+    "AA":{
       "nick":"Zeff",
-      "time":"1:04:342",
-      "date":"22/07/2021"
+      "time":"",
+      "date":""
     },
     "13":{
       "nick":"HissingStone",
-      "time":"1:04:414",
-      "date":"22/07/2021"
+      "time":"",
+      "date":""
     },
     "69":{
       "nick":"ZeroOneTV",
-      "time":"1:03:791",
-      "date":"22/07/2021"
+      "time":"",
+      "date":""
     },
     "73":{
       "nick":"Daineze",
-      "time":"1:05:093",
-      "date":"22/07/2021"
+      "time":"",
+      "date":""
     }
   }
 }
