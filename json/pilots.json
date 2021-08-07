@@ -9,24 +9,17 @@
     },
     {
       "color":"#444",
-      "number":"92",
+      "number":"GG",
       "nick":"Fred \"Renn\"",
       "team":"no Team",
       "steam":"https://steamcommunity.com/profiles/76561198042510674"
     },
     {
       "color":"#444",
-      "number":"93",
+      "number":"FF",
       "nick":"Denis \"Endeavor\"",
       "team":"no Team",
       "steam":"https://steamcommunity.com/profiles/76561198800258726/"
-    },
-    {
-      "color":"#444",
-      "number":"94",
-      "nick":"Vitor \"Vituuh\"",
-      "team":"no Team",
-      "steam":"https://steamcommunity.com/id/bkgopnik/"
     },
     {
       "color":"#444",
@@ -37,28 +30,35 @@
     },
     {
       "color":"#444",
-      "number":"96",
+      "number":"EE",
+      "nick":"Vitor \"Vituuh\"",
+      "team":"no Team",
+      "steam":"https://steamcommunity.com/id/bkgopnik/"
+    },
+    {
+      "color":"#444",
+      "number":"DD",
       "nick":"Eduardo \"Kess000\"",
       "team":"no Team",
       "steam":"https://steamcommunity.com/id/kess000/"
     },
     {
       "color":"#444",
-      "number":"97",
+      "number":"CC",
       "nick":"Antonio \"Neto\"",
       "team":"no Team",
       "steam":"https://steamcommunity.com/id/netolokao/"
     },
     {
       "color":"#444",
-      "number":"98",
+      "number":"BB",
       "nick":"Rodrigo \"Diguim\"",
       "team":"no Team",
       "steam":"https://steamcommunity.com/profiles/76561198112636111"
     },
     {
       "color":"#FFFFFF",
-      "number":"99",
+      "number":"AA",
       "nick":"Matheus \"Zeff\"",
       "team":"Dias Racing",
       "steam":"https://steamcommunity.com/profiles/76561198990313618/"

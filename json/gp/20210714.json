@@ -2,47 +2,27 @@
   "gp_name":"Áustria - Spielberg",
   "date_limit":"31/02/2022 às 18 horas",
   "times":{
-    "25":{
-      "nick":"Oovi Cat",
-      "time":"",
-      "date":""
-    },
-    "92":{
-      "nick":"Renn",
-      "time":"",
-      "date":""
-    },
-    "93":{
-      "nick":"Endeavor",
-      "time":"",
-      "date":""
-    },
-    "94":{
+    "EE":{
       "nick":"Vituuh",
       "time":"1:05:527",
       "date":"22/07/2021"
     },
-    "95":{
-      "nick":"Don",
-      "time":"",
-      "date":""
-    },
-    "96":{
+    "DD":{
       "nick":"Kess000",
       "time":"1:06:204",
       "date":"22/07/2021"
     },
-    "97":{
+    "CC":{
       "nick":"Neto",
       "time":"1:04:567",
       "date":"22/07/2021"
     },
-    "98":{
+    "BB":{
       "nick":"Diguim",
       "time":"1:06:118",
       "date":"22/07/2021"
     },
-    "99":{
+    "AA":{
       "nick":"Zeff",
       "time":"1:04:342",
       "date":"22/07/2021"
