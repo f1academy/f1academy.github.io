@@ -1,0 +1,90 @@
+{
+  "gp_name":"Áustria - Spielberg",
+  "date_limit":"22/07/2021 às 18 horas",
+  "times":[
+    {
+      "color":"#124180",
+      "number":"25",
+      "nick":"Paul \"Oovi Cat\"",
+      "team":"AVAX RT",
+      "steam":"https://steamcommunity.com/id/rcaroten/"
+    },
+    {
+      "color":"#444",
+      "number":"92",
+      "nick":"Fred \"Renn\"",
+      "team":"no Team",
+      "steam":"https://steamcommunity.com/profiles/76561198042510674"
+    },
+    {
+      "color":"#444",
+      "number":"93",
+      "nick":"Denis \"Endeavor\"",
+      "team":"no Team",
+      "steam":"https://steamcommunity.com/profiles/76561198800258726/"
+    },
+    {
+      "color":"#444",
+      "number":"94",
+      "nick":"Rodrigo \"Don\"",
+      "team":"no Team",
+      "steam":"https://steamcommunity.com/id/limarodrigoo"
+    },
+    {
+      "color":"#444",
+      "number":"95",
+      "nick":"Vitor \"Vituuh\"",
+      "team":"no Team",
+      "steam":"https://steamcommunity.com/id/bkgopnik/"
+    },
+    {
+      "color":"#444",
+      "number":"96",
+      "nick":"Eduardo \"Kess000\"",
+      "team":"no Team",
+      "steam":"https://steamcommunity.com/id/kess000/"
+    },
+    {
+      "color":"#444",
+      "number":"97",
+      "nick":"Antonio \"Neto\"",
+      "team":"no Team",
+      "steam":"https://steamcommunity.com/id/netolokao/"
+    },
+    {
+      "color":"#444",
+      "number":"98",
+      "nick":"Rodrigo \"Diguim\"",
+      "team":"no Team",
+      "steam":"https://steamcommunity.com/profiles/76561198112636111"
+    },
+    {
+      "color":"#FFFFFF",
+      "number":"99",
+      "nick":"Matheus \"Zeff\"",
+      "team":"Dias Racing",
+      "steam":"https://steamcommunity.com/profiles/76561198990313618/"
+    },
+    {
+      "color":"#744C11",
+      "number":"13",
+      "nick":"Jean \"HissingStone\"",
+      "team":"Golden Shower",
+      "steam":"https://steamcommunity.com/id/BKStone/"
+    },
+    {
+      "color":"#000",
+      "number":"69",
+      "nick":"Gabriel \"ZeroOneTV\"",
+      "team":"Lotus",
+      "steam":"https://steamcommunity.com/id/ZeroOneTV"
+    },
+    {
+      "color":"#E90A32",
+      "number":"73",
+      "nick":"Filipe \"Daineze\"",
+      "team":"DNZ Academy",
+      "steam":"https://steamcommunity.com/id/FDDaineze/"
+    }
+  ]
+}
